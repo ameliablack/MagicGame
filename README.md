@@ -32,7 +32,7 @@ Compile the user.java file using a Java compiler.
 
 Run the Program:
 Run the compiled program.
-  ``` bash
+  ```bash
   java user
 
 Follow On-Screen Prompts:
