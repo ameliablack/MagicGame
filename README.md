@@ -27,16 +27,17 @@ Characters can be saved to a file or loaded from a file.
 Compile the Code:
 Ensure you have Java installed on your machine.
 Compile the user.java file using a Java compiler.
-```bash
- 	javac user.java `
+
+  javac user.java
 
 Run the Program:
+
 Run the compiled program.
 
-```bash
-  java user `
+  java user 
 
 Follow On-Screen Prompts:
+
 The program will guide you through character creation, stat allocation, and gameplay actions.
 Choose options from the menu to navigate through different functionalities.
 
