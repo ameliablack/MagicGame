@@ -27,13 +27,12 @@ Characters can be saved to a file or loaded from a file.
 Compile the Code:
 Ensure you have Java installed on your machine.
 Compile the user.java file using a Java compiler.
-```bash javac user.java`
+```bash 	javac user.java```
 
 Run the Program:
 
 Run the compiled program.
-
-```bash java user `
+```bash 	java user ```
 
 Follow On-Screen Prompts:
 
